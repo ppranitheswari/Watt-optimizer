@@ -1,4 +1,4 @@
-**PowerTracker** is a smart energy management web application designed to help users track their electricity consumption, calculate bills accurately, receive AI-powered predictions, and discover energy-saving tips.  
+**Watt optimizer** is a smart energy management web application designed to help users track their electricity consumption, calculate bills accurately, receive AI-powered predictions, and discover energy-saving tips.  
 
 
 
