@@ -5,7 +5,7 @@
 ## Features
 
 - **Energy Dashboard** – View current usage, current bill, AI predictions, and savings potential at a glance.  
-- **Bill Calculator** – Calculate electricity bills based on meter readings with detailed tariff breakdown.  
+- **Bill Calculator** – Calculate electricity bills based on meter readings with detailed tariff breakdown. 
 - **Energy Saving Tips** – Personalized suggestions to reduce energy usage and cost.  
 - **Bill History** – Track past calculations and usage trends for better analysis.  
 - **Data Visualization** – Interactive charts to understand cost trends and energy usage patterns.
